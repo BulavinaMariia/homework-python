@@ -1,0 +1,1 @@
+print('To be\n\n\tor not\n\n\t\tto be...\n\n\t\t\t\\ William Shakespeare \\')
